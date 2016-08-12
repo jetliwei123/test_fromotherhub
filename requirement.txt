@@ -1,4 +1,0 @@
-nose
-coverage
-Flask
-MySQL-python
